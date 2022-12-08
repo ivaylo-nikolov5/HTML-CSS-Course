@@ -5,6 +5,8 @@
     border: 1px solid #000000;
     padding: 10px 20px;
     background-color: #a6e1ec;
+    border-radius: 20px;
+    box-shadow: 5px 10px;
 }
 
 img {
@@ -15,6 +17,14 @@ img {
 
 .text {
     color: #3f51b5;
+}
+
+a:hover {
+    color: green;
+}
+
+a:link {
+    text-decoration: none;
 }
 
 li {
