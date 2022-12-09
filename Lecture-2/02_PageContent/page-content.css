@@ -1,0 +1,21 @@
+.container .articles h1 {
+    font-size: 28px;
+}
+
+.container .articles .italic-paragraph {
+    font-style: italic;
+}
+
+.container .articles .normal-p {
+    font-size: 24px;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #CCCCCC;
+}
+
+section {
+    margin-left: 20px;
+}
