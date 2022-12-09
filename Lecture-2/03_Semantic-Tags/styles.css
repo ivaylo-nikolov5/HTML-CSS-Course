@@ -1,0 +1,21 @@
+body {
+    align-items: center;
+    padding: 15px 5px 15px;
+    background-color: #f9f7cf;
+}
+
+.heading {
+    text-align: center;
+    background-color: #f2dcbb;
+    width: 480px;
+}
+
+.footer {
+    text-align: center;
+    background-color: #f2dcbb;
+    width: 480px;
+}
+
+.main-container {
+    text-align: center;
+}
